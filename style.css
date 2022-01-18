@@ -248,3 +248,15 @@ button{
 
     border: 2px solid white;
   }
+
+  .footer{
+
+    background-color: #466446;
+    height: 100px;
+    color: white;
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+  }
